@@ -11,7 +11,7 @@
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages - build",
-    "start": "npm run vite"
+    "start": "vite"
   },
   "dependencies": {
     "dompurify": "^3.2.4",
